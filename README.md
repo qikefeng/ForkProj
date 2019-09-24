@@ -1,3 +1,3 @@
 # ForkProj
 
-aaaaaa
+Hello, git fork!
